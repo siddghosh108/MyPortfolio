@@ -1,7 +1,7 @@
 import { slide as Menu } from 'react-burger-menu';
 import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import '../styles.css';
+import 'src/styles.css';
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);

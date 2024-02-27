@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEye } from '@fortawesome/free-solid-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import styled from 'styled-components';
-import '../styles.css';
+import 'src/styles.css';
 
 const ImageContainer = styled.div`
   position: relative;
@@ -50,7 +50,7 @@ const ProjectModals = ({
     },
     modalImage: {
       width: '100%',
-      height: 'auto',
+      height: '50%',
       borderRadius: '8px',
       boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
     },
