@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b356d81a.css",
-    "main.js": "/static/js/main.b13c55bf.js",
+    "main.js": "/static/js/main.1f39b466.js",
     "static/media/restaurant-app.jpeg": "/static/media/restaurant-app.8b7ce6493acdb5464d98.jpeg",
     "static/media/bakers-workshop.jpeg": "/static/media/bakers-workshop.eee066aa511465e4a177.jpeg",
     "static/media/space-travelers.png": "/static/media/space-travelers.e4ea840375e36baa09af.png",
@@ -18,10 +18,10 @@
     "static/media/background.jpg": "/static/media/background.2c6856feb350666ae81d.jpg",
     "index.html": "/index.html",
     "main.b356d81a.css.map": "/static/css/main.b356d81a.css.map",
-    "main.b13c55bf.js.map": "/static/js/main.b13c55bf.js.map"
+    "main.1f39b466.js.map": "/static/js/main.1f39b466.js.map"
   },
   "entrypoints": [
     "static/css/main.b356d81a.css",
-    "static/js/main.b13c55bf.js"
+    "static/js/main.1f39b466.js"
   ]
 }

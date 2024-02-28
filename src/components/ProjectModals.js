@@ -50,7 +50,7 @@ const ProjectModals = ({
     },
     modalImage: {
       width: '100%',
-      height: 'auto',
+      height: '50%',
       borderRadius: '8px',
       boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
     },
