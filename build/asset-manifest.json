@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.b356d81a.css",
-    "main.js": "/static/js/main.1f39b466.js",
-    "static/media/restaurant-app.jpeg": "/static/media/restaurant-app.8b7ce6493acdb5464d98.jpeg",
-    "static/media/bakers-workshop.jpeg": "/static/media/bakers-workshop.eee066aa511465e4a177.jpeg",
+    "main.js": "/static/js/main.05745b7d.js",
     "static/media/space-travelers.png": "/static/media/space-travelers.e4ea840375e36baa09af.png",
     "static/media/aboutBack.jpg": "/static/media/aboutBack.5c26d539a40caafa15eb.jpg",
     "static/media/resume.pdf": "/static/media/resume.e5243bddd0bf57c0602c.pdf",
     "static/media/about.png": "/static/media/about.6692db73861538516a20.png",
     "static/media/explore-countries.png": "/static/media/explore-countries.2236928a6908bd50741a.png",
-    "static/media/projectt.png": "/static/media/projectt.fa697881630f5e771521.png",
     "static/media/doctors-app.jpg": "/static/media/doctors-app.48202edf91366e1331dc.jpg",
     "static/media/icon2.png": "/static/media/icon2.b1c1a74baf70e68ad990.png",
     "static/media/icon3.png": "/static/media/icon3.cdba64431a4e496080da.png",
     "static/media/budget-app.jpg": "/static/media/budget-app.e81926a4c1ba2fb7811d.jpg",
     "static/media/icon4.png": "/static/media/icon4.7926d693dd2e057f0c46.png",
+    "static/media/restaurant-app.jpeg": "/static/media/restaurant-app.ea37ceb41a8c239c67c0.jpeg",
+    "static/media/bakers-workshop.jpeg": "/static/media/bakers-workshop.09a2593d40504e1dbe52.jpeg",
     "static/media/background.jpg": "/static/media/background.2c6856feb350666ae81d.jpg",
     "index.html": "/index.html",
     "main.b356d81a.css.map": "/static/css/main.b356d81a.css.map",
-    "main.1f39b466.js.map": "/static/js/main.1f39b466.js.map"
+    "main.05745b7d.js.map": "/static/js/main.05745b7d.js.map"
   },
   "entrypoints": [
     "static/css/main.b356d81a.css",
-    "static/js/main.1f39b466.js"
+    "static/js/main.05745b7d.js"
   ]
 }
