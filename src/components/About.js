@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
-import Icon4 from '../images/icon4.png';
-import Icon2 from '../images/icon2.png';
-import Icon3 from '../images/icon3.png';
-import myResume from '../images/resume.pdf';
-import '../styles.css';
+import Icon4 from 'src/images/icon4.png';
+import Icon2 from 'src/images/icon2.png';
+import Icon3 from 'src/images/icon3.png';
+import myResume from 'src/images/resume.pdf';
+import 'src/styles.css';
 
 const Button = styled.a`
   display: inline-block;

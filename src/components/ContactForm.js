@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useForm } from '@formspree/react';
-import '../styles.css';
+import 'src/styles.css';
 
 const ContactForm = () => {
   const [state, handleSubmit] = useForm('moqogayz');
